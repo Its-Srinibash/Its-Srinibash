@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, my name is Srinibash Mohanty 👋 .
 
-<!--
-**Its-Srinibash/Its-Srinibash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently doing B Tech.
+- 🌱 I’m currently learning Python and Java Script.
+- 👯 I’m looking to collaborate on Open Source Projects.
+- 🤔 I’m looking for help with Block Chain Development.
+- 💬 Ask me about C++ or any tech related stuff.
+- 📫 How to reach me: Twitter - @SrinibashMoha17
+- 😄 Pronouns: He/His.
+
+
